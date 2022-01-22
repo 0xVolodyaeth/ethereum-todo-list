@@ -1,0 +1,190 @@
+09:26:58.449 › Checking for update
+(node:31326) DeprecationWarning: Passing functions, DOM objects and other non-cloneable JavaScript objects to IPC methods is deprecated and will throw an exception beginning with Electron 9.
+(node:31326) DeprecationWarning: Passing functions, DOM objects and other non-cloneable JavaScript objects to IPC methods is deprecated and will throw an exception beginning with Electron 9.
+09:27:00.110 › Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/trufflesuite/ganache/releases/download/v2.13.2/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/trufflesuite/ganache/releases/download/v2.13.2/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 15 Jan 2022 06:26:59 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Accept-Encoding, Accept, X-Requested-With",
+  "permissions-policy": "interest-cohort=()",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "CECA:11EC8:109B934:117A97B:61E26933"
+}
+    at createHttpError (/tmp/.mount_ganach9duB7F/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_ganach9duB7F/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_ganach9duB7F/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+    at newError (/tmp/.mount_ganach9duB7F/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:212:17)
+    at GitHubProvider.getLatestVersion (/tmp/.mount_ganach9duB7F/resources/app.asar/webpack:/node_modules/electron-updater/out/providers/GitHubProvider.js:134:41)
+listen to truffle
+eth_unsubscribe
+eth_unsubscribe
+
+eth_unsubscribe
+eth_unsubscribe
+eth_unsubscribe
+eth_unsubscribe
+
+eth_unsubscribe
+
+09:27:13.151 › Checking for update
+(node:31742) DeprecationWarning: Passing functions, DOM objects and other non-cloneable JavaScript objects to IPC methods is deprecated and will throw an exception beginning with Electron 9.
+(node:31742) DeprecationWarning: Passing functions, DOM objects and other non-cloneable JavaScript objects to IPC methods is deprecated and will throw an exception beginning with Electron 9.
+09:27:14.181 › Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/trufflesuite/ganache/releases/download/v2.13.2/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/trufflesuite/ganache/releases/download/v2.13.2/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 15 Jan 2022 06:26:59 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Accept-Encoding, Accept, X-Requested-With",
+  "permissions-policy": "interest-cohort=()",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "CEE4:10D0C:D04F93:DDAD00:61E26941"
+}
+    at createHttpError (/tmp/.mount_ganachCB7CNz/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_ganachCB7CNz/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_ganachCB7CNz/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+    at newError (/tmp/.mount_ganachCB7CNz/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:212:17)
+    at GitHubProvider.getLatestVersion (/tmp/.mount_ganachCB7CNz/resources/app.asar/webpack:/node_modules/electron-updater/out/providers/GitHubProvider.js:134:41)
+listen to truffle
+09:27:27.941 › Checking for update
+(node:31928) DeprecationWarning: Passing functions, DOM objects and other non-cloneable JavaScript objects to IPC methods is deprecated and will throw an exception beginning with Electron 9.
+(node:31928) DeprecationWarning: Passing functions, DOM objects and other non-cloneable JavaScript objects to IPC methods is deprecated and will throw an exception beginning with Electron 9.
+09:27:28.995 › Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/trufflesuite/ganache/releases/download/v2.13.2/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/trufflesuite/ganache/releases/download/v2.13.2/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 15 Jan 2022 06:26:59 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Accept-Encoding, Accept, X-Requested-With",
+  "permissions-policy": "interest-cohort=()",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "CF00:6378:1127860:1207D20:61E26950"
+}
+    at createHttpError (/tmp/.mount_ganachftd7OV/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_ganachftd7OV/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_ganachftd7OV/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+    at newError (/tmp/.mount_ganachftd7OV/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:212:17)
+    at GitHubProvider.getLatestVersion (/tmp/.mount_ganachftd7OV/resources/app.asar/webpack:/node_modules/electron-updater/out/providers/GitHubProvider.js:134:41)
+listen to truffle
+09:43:50.629 › Checking for update
+(node:34685) DeprecationWarning: Passing functions, DOM objects and other non-cloneable JavaScript objects to IPC methods is deprecated and will throw an exception beginning with Electron 9.
+(node:34685) DeprecationWarning: Passing functions, DOM objects and other non-cloneable JavaScript objects to IPC methods is deprecated and will throw an exception beginning with Electron 9.
+09:43:52.133 › Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/trufflesuite/ganache/releases/download/v2.13.2/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/trufflesuite/ganache/releases/download/v2.13.2/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 15 Jan 2022 06:43:51 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Accept-Encoding, Accept, X-Requested-With",
+  "permissions-policy": "interest-cohort=()",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "AEB4:C90F:F14513:FF20B1:61E26D27"
+}
+    at createHttpError (/tmp/.mount_ganachz9cgpo/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_ganachz9cgpo/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_ganachz9cgpo/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+    at newError (/tmp/.mount_ganachz9cgpo/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:212:17)
+    at GitHubProvider.getLatestVersion (/tmp/.mount_ganachz9cgpo/resources/app.asar/webpack:/node_modules/electron-updater/out/providers/GitHubProvider.js:134:41)
+09:44:07.004 › Checking for update
+(node:34901) DeprecationWarning: Passing functions, DOM objects and other non-cloneable JavaScript objects to IPC methods is deprecated and will throw an exception beginning with Electron 9.
+(node:34901) DeprecationWarning: Passing functions, DOM objects and other non-cloneable JavaScript objects to IPC methods is deprecated and will throw an exception beginning with Electron 9.
+09:44:08.004 › Error: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/trufflesuite/ganache/releases/download/v2.13.2/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/trufflesuite/ganache/releases/download/v2.13.2/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons actual status maybe not reported, but 404.\n"
+Headers: {
+  "status": "404",
+  "server": "GitHub.com",
+  "date": "Sat, 15 Jan 2022 06:43:51 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Accept-Encoding, Accept, X-Requested-With",
+  "permissions-policy": "interest-cohort=()",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "AEBC:1FF8:9CCEAD:A9B92B:61E26D37"
+}
+    at createHttpError (/tmp/.mount_ganachxsvhmk/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:84:10)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_ganachxsvhmk/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:168:14)
+    at ClientRequest.<anonymous> (/tmp/.mount_ganachxsvhmk/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/httpExecutor.js:134:16)
+    at ClientRequest.emit (events.js:210:5)
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2510:12)
+    at SimpleURLLoaderWrapper.emit (events.js:210:5)
+    at newError (/tmp/.mount_ganachxsvhmk/resources/app.asar/webpack:/node_modules/electron-updater/node_modules/builder-util-runtime/out/index.js:212:17)
+    at GitHubProvider.getLatestVersion (/tmp/.mount_ganachxsvhmk/resources/app.asar/webpack:/node_modules/electron-updater/out/providers/GitHubProvider.js:134:41)
+listen to truffle
+Error: write EPIPE
+    at ChildProcess.target._send (internal/child_process.js:806:20)
+    at ChildProcess.send (internal/child_process.js:676:19)
+    at /tmp/.mount_ganachxsvhmk/resources/app.asar/webpack:/src/integrations/ethereum/common/services/TruffleIntegrationService.js:78:20
+    at new Promise (<anonymous>)
+    at TruffleIntegrationService_TruffleIntegrationService.stopWatching (/tmp/.mount_ganachxsvhmk/resources/app.asar/webpack:/src/integrations/ethereum/common/services/TruffleIntegrationService.js:71:38)
+    at ethereum_Ethereum.stopServer (/tmp/.mount_ganachxsvhmk/resources/app.asar/webpack:/src/integrations/ethereum/index.js:166:35)
+    at ethereum_Ethereum.stop (/tmp/.mount_ganachxsvhmk/resources/app.asar/webpack:/src/integrations/ethereum/index.js:159:16)
+    at integrations_IntegrationManager.stopChain (/tmp/.mount_ganachxsvhmk/resources/app.asar/webpack:/src/integrations/index.js:90:26)
+    at performShutdownTasks (/tmp/.mount_ganachxsvhmk/resources/app.asar/webpack:/src/main/index.js:136:24)
+    at App.<anonymous> (/tmp/.mount_ganachxsvhmk/resources/app.asar/webpack:/src/main/index.js:185:23) {
+  errno: 'EPIPE',
+  code: 'EPIPE',
+  syscall: 'write'
+}
+Truffle Integration process exited prematurely due to signal 'SIGHUP'.
